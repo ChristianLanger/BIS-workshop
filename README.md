@@ -2,5 +2,4 @@
 Presentation Workshop "Exploring Synergies and Sustainability for Biodiversity Information Systems"
 
 
-test
-test
+[Presentation](http://geobon.org)
