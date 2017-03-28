@@ -2,4 +2,4 @@
 Presentation Workshop "Exploring Synergies and Sustainability for Biodiversity Information Systems"
 
 
-[Presentation](http://geobon.org)
+* [Presentation](https://rawgit.com/ChristianLanger/BIS-workshop/master/index.html)
